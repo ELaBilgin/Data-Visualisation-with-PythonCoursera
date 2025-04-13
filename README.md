@@ -1,1 +1,1 @@
-# Data-Visualisation-with-PythonCoursera
+# Data-Visualization-with-Python-Coursera
